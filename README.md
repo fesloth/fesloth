@@ -1,11 +1,9 @@
-# fesloth (Syahla Nur Azizah)
+# Hello 👋
 
-
-
-# My Stats 
-[![](https://raw.githubusercontent.com/fesloth/fesloth/master/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/fesloth/fesloth/master/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
-[![](https://raw.githubusercontent.com/fesloth/fesloth/master/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<div style="display: flex; justify-content: center; align-items: center;">
+<img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=fesloth&show_icons=true&theme=tokyonight">
+<img align="center" width="35%" src="https://raw.githubusercontent.com/fesloth/fesloth/master/profile-summary-card-output/tokyonight/1-repos-per-language.svg">
+</div>
 
 # Language and Tools :
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
