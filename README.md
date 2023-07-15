@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Hai, I'm Syahla 👋</h2>
+  <h1>Hai, I'm Syahla 👋</h1>
   <img src="https://github-readme-stats.vercel.app/api?username=fesloth&show_icons=true&theme=tokyonight" alt="fesloth Github Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fesloth&layout=compact&theme=tokyonight" width="35%">
 </div>
@@ -9,7 +9,7 @@ I am a technology enthusiast and a student who is passionate about web and appli
 - 🌏 I'm based in Indonesia
 - 🧩 Currently learning nodejs and expressjs
 - 📑 See my portfolio at <a href="https://syahla-portfolio.vercel.app">Portfolio</a>
-- My Social Media:
+- 📱 My Social Media:
 <a href="https://www.linkedin.com/in/syahla-nur-azizah-3a8ab4270">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
