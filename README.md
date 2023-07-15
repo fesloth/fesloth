@@ -1,11 +1,9 @@
 <div align="center">
-  <h1>Hai, I'm Syahla 👋</h1>
   <img src="https://github-readme-stats.vercel.app/api?username=fesloth&show_icons=true&theme=tokyonight" alt="fesloth Github Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fesloth&layout=compact&theme=tokyonight" width="35%">
 </div>
   
  ### Description 👩‍💻
-I am a technology enthusiast and a student who is passionate about web and application development. I have a strong interest in server-side development and enjoy working on the logical aspects of building robust and efficient applications.
+Hai👋, My name is Syahla Nur Azizah, I am a technology enthusiast and a student who is passionate about web and application development. I have a strong interest in server-side development and enjoy working on the logical aspects of building robust and efficient applications.
 - 🌏 I'm based in Indonesia
 - 🧩 Currently learning nodejs and expressjs
 - 📑 See my portfolio at <a href="https://syahla-portfolio.vercel.app">Portfolio</a>
