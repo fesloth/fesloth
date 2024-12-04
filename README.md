@@ -6,7 +6,7 @@
 Hai👋, My name is Syahla Nur Azizah, I am a technology enthusiast and a student who is passionate about web and application development. I have a strong interest in server-side development and enjoy working on the logical aspects of building robust and efficient applications.
 - 🌏 I'm based in Indonesia
 - 🧩 Currently learning React
-- 📑 See my portfolio at <a href="https://syahla-portfolio.vercel.app" target="_blank">Portfolio</a>
+- 📑 See my portfolio at <a href="https://portfolio-syahla.vercel.app" target="_blank">Portfolio</a>
 - 📱 My Social Media:
 <a target="_blank" href="https://www.linkedin.com/in/syahla-nur-azizah-3a8ab4270">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
