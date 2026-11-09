@@ -1,8 +1,4 @@
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fesloth&show_icons=true&theme=tokyonight" alt="fesloth Github Stats">
-</div>
-  
- ### Description 👩‍💻
+### Description 👩‍💻
 Hai👋, My name is Syahla Nur Azizah, I am a technology enthusiast and a student who is passionate about web and application development. I have a strong interest in server-side development and enjoy working on the logical aspects of building robust and efficient applications.
 - 🌏 I'm based in Indonesia
 - 🧩 Currently learning React
@@ -11,11 +7,11 @@ Hai👋, My name is Syahla Nur Azizah, I am a technology enthusiast and a studen
 <a target="_blank" href="https://www.linkedin.com/in/syahla-nur-azizah-3a8ab4270">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-<a target="_blank" href="https://www.instagram.com/syhl.crz">
+<a target="_blank" href="https://www.instagram.com/fesloth">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
 </a>
-<a target="_blank" href="https://twitter.com/nielvoff">
-  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+<a target="_blank" href="https://x.com/fesloth">
+  <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="X">
 </a>
 <div style="display: flex;">
   <h3>Technologies 💻</h3>
@@ -38,6 +34,14 @@ Hai👋, My name is Syahla Nur Azizah, I am a technology enthusiast and a studen
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
   <img src="https://img.shields.io/badge/laragon-%230175C2.svg?style=for-the-badge&logo=laragon&logoColor=white">
 </div>
+
+### GitHub Streak 🔥
+
+<img src="https://streak-stats.demolab.com?user=fesloth&theme=tokyonight&hide_border=true"/>
+
+### GitHub Statistics 📊 
+
+<img src="https://ghstats.dev/api/card?username=fesloth&theme=tokyonight" width="100%" />
 <hr>
 <footer align="center">
   <p>&copy; 2023 | fesloth</p>
